@@ -1,7 +1,6 @@
-# Lab-1-Machine-Learning
+# Lab-1 Machine Learning
 
 Create a GitHub repository and introduce myself using a README.md file.
-
 ## Introduction
 
 Hello, I am Amani Algamdi, in my third year, majoring in AI.
